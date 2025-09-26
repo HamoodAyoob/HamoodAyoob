@@ -23,11 +23,11 @@
   <a href="https://www.linkedin.com/in/hamood-ayoob-khan-b19917368" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/yourhandle" target="_blank">
+  <a href="https://discord.gg/Mr2GsMFceA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
   </a>
-  <a href="https://dev.to/hamoodayoob" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="devto logo"  />
+  <a href="https://www.fiverr.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=1DBF73&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="fiverr logo"  />
   </a>
 </div>
 
@@ -114,28 +114,9 @@ print(me.fun_fact())
 
 ###
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Django Applications](https://your-blog.com)
-- [Flutter vs React Native: A Developer's Perspective](https://your-blog.com)
-- [Python Best Practices for Web Development](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
-###
 
 ## 🎵 Currently Vibing to
-[![Spotify](https://github-readme-spotify-nowplaying.vercel.app/api/spotify-playing)](https://spotify.com)
-
-###
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
-###
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n4stcgxtgiprewktjf7yrkckby&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🐍 Watch my commits get eaten!
 <div align="center">
@@ -155,4 +136,3 @@ print(me.fun_fact())
 
 ---
 
-⭐️ From [HamoodAyoob](https://github.com/HamoodAyoob)
