@@ -116,9 +116,11 @@ print(me.fun_fact())
 
 <div align="center">
   
-## 🎵 Currently Vibing to
+## 🎵 What's Playing in My Code Sessions
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n4stcgxtgiprewktjf7yrkckby&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31n4stcgxtgiprewktjf7yrkckby&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31n4stcgxtgiprewktjf7yrkckby&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=true&bar_color=9745F5&bar_color_cover=true)](https://open.spotify.com/user/31n4stcgxtgiprewktjf7yrkckby)
+
+*🎧 Music fuels my coding sessions!*
 
 </div>
 
