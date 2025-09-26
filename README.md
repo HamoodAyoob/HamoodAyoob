@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamoodand I'm a Dedicated Bachelor of Computer Application student specializing in AI, Cloud Computing, and DevOps, from Kerala</h2>
+<h2 align="left">Hi 👋! My name is Hamood and I'm a Dedicated Bachelor of Computer Application student specializing in AI, Cloud Computing, and DevOps, from Kerala</h2>
 
 ###
 
