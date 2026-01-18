@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/Jw0csh9c/header-1.png" width="100%" />
-</p>
+![header](https://i.ibb.co/Jw0csh9c/header-1.png)
+
 
 ###
 
