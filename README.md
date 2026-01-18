@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://i.ibb.co/Jw0csh9c/header-1.png"
+    src="https://i.ibb.co/C3PGdbzt/cc6d7b54bf18733343d1265a67a7dbe5-ezgif-com-video-to-gif-converter.gif"
     style="max-width:100%; height:auto; display:block;"
   />
 </p>
