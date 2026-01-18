@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/Jw0csh9c/header-1.png" width="900px" />
+  <img 
+    src="https://i.ibb.co/Jw0csh9c/header-1.png"
+    style="max-width:100%; height:auto; display:block;"
+  />
 </p>
 
 
